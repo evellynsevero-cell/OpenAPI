@@ -1,4 +1,4 @@
-package com.zup.openAPI.Controllers;
+package com.zup.openAPI.controllers;
 
 public class TaskController {
 }
