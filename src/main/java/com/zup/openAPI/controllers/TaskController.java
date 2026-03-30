@@ -1,6 +1,6 @@
 package com.zup.openAPI.controllers;
 
-import com.zup.openAPI.exception.TaskNotFoundException;
+import com.zup.openAPI.exceptions.TaskNotFoundException;
 import com.zup.openAPI.models.Task;
 import io.swagger.v3.oas.annotations.tags.Tag;
 import org.springframework.http.HttpStatus;
