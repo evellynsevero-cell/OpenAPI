@@ -1,4 +1,4 @@
-package com.zup.openAPI.exeptions;
+package com.zup.openAPI.exceptions;
 
 public class GlobalExceptionHandler {
 }
