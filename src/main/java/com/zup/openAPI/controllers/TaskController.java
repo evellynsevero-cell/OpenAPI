@@ -1,4 +1,4 @@
-package com.zup.openAPI.controllers;
+package com.zup.openAPI.Controllers;
 
 import com.zup.openAPI.exceptions.TaskNotFoundException;
 import com.zup.openAPI.models.Task;
